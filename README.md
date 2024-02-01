@@ -13,7 +13,7 @@ For this take home exercise, you will be working on a critical problem for our g
 5. Procurement/Negotiation
 6. Closed Won / Closed Lost
 
-A single deal should move through these stages in a chronological order, but it can go from any stage to Closed Lost. 
+A single deal should move through these stages in a chronological order, however, a deal can go from any stage to Closed Lost. 
 
 ## Data
 
@@ -43,14 +43,15 @@ This table is unique on the **deal_id** and **stage_created_at** columns.
 This table is unique on the **deal_id** column.
 
 ## Expected Output
-For this exercise, we would like you to build us a funnel visualization which represents the:
+For this exercise, we would like you to build us two visualisation/s which represent the:
 - Count of deals that have entered into each stage of the pipeline
 - Monetary value of deals that have entered each stage of the pipeline in USD ($)
 
-We should be able to filter / slice this funnel by close date and deal source type. 
+We should be able to filter / slice this funnel by **close date** and **deal source type** dimensions. 
 
-Feel free to display this data in any visualization format you’d like - this is an opportunity for us to understand what your best practices are for displaying quantitative data.
+Feel free to display this data in any visualisation format you’d like - this is an opportunity for us to understand what your best practices are for displaying quantitative data.
 
+## Guidance
 We have no strict requirements on what tools you use to achieve this output, other than the fact that the data modeling should be done in SQL and the results presented in a Business Intelligence tool of your choice. 
 
 Below is a list of free SQL and BI tools which you may find useful to complete this exercise (these are just suggestions, we don’t mind what tools you use):
@@ -66,5 +67,5 @@ We’d like you to submit this exercise before the final interview (at least 2 w
 - The SQL query/s you have written 
 - The presentation of the data to a non-technical audience
 
-Our expectation is that this exercise should take approximately 2 hours to complete thoroughly. Most importantly, we’d like to understand how you would tackle the data problem and present the results to a key business stakeholder. Thus, the final model and visualizations do not have to be perfect. Finally, have fun and we look forward to talking through your solutions! 
+Our expectation is that this exercise should take approximately 2 hours to complete thoroughly. Most importantly, we’d like to understand how you would tackle the data problem and present the results to a key business stakeholder. Thus, the final model and visualisations do not have to be perfect. Finally, have fun and we look forward to talking through your solutions! 
  
