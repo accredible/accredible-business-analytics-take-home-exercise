@@ -34,7 +34,6 @@ This table is unique on the **deal_id** and **stage_created_at** columns.
 - **deal_id** - a unique identifier assigned to each deal in a pipeline 
 - **pipeline_id** - the identifier of the pipeline (in this dataset, you will only see default as a value)
 - **pipeline_name** - a string representing the human-readable pipeline name (in this dataset, you will only see Mid Market Pipeline as a value)
-- **deal_stage_id** - the identifier of the latest stage a deal has entered
 - **stage_name** - a string representing the human-readable stage name
 - **amount_in_home_currency** - a number representing the monetary value of a deal in USD ($).
 - **created_at** - a timestamp at which a deal was first created
