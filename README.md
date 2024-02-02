@@ -62,7 +62,7 @@ Below is a list of free SQL and BI tools which you may find useful to complete t
 - [Clickhouse](https://clickhouse.com/) (SQL database)
 - [DuckDB](https://duckdb.org/) (SQL database)
 
-We’d like you to submit this exercise at least 2 working days before the final interview to allow for our team to review and formulate their questions. Please add the SQL query/s you have written and any documentation you feel may be relevant to a public repository on GitHub and share this link with us via email (jesse.stanley@accredible.com and matparrish@accredible.com) when you are ready. 
+We’d like you to submit this exercise at least 2 working days before the final interview to allow for our team to review and formulate their questions. Please add the SQL query/s you have written and any documentation you feel may be relevant to a [public repository on GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories) and share this link with us via email (jesse.stanley@accredible.com and matparrish@accredible.com) when you are ready. 
 
 During the panel interview, we’d like you to walk through your work with our team. We’ll be asking questions to understand:
 - The assumptions you have made of the source data
